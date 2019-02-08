@@ -10,6 +10,7 @@ function perimetroQuadrado (quadrado, lado) {
   return perimetroQuadrado;
 }
 
+// Teste github
 perimetroQuadrado(20);
 
 
